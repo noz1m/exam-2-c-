@@ -1,0 +1,14 @@
+/Users/nozimjonqozievgmail.com/Desktop/c#/week 2/exam-2/bin/Debug/net9.0/exam-2
+/Users/nozimjonqozievgmail.com/Desktop/c#/week 2/exam-2/bin/Debug/net9.0/exam-2.deps.json
+/Users/nozimjonqozievgmail.com/Desktop/c#/week 2/exam-2/bin/Debug/net9.0/exam-2.runtimeconfig.json
+/Users/nozimjonqozievgmail.com/Desktop/c#/week 2/exam-2/bin/Debug/net9.0/exam-2.dll
+/Users/nozimjonqozievgmail.com/Desktop/c#/week 2/exam-2/bin/Debug/net9.0/exam-2.pdb
+/Users/nozimjonqozievgmail.com/Desktop/c#/week 2/exam-2/obj/Debug/net9.0/exam-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nozimjonqozievgmail.com/Desktop/c#/week 2/exam-2/obj/Debug/net9.0/exam-2.AssemblyInfoInputs.cache
+/Users/nozimjonqozievgmail.com/Desktop/c#/week 2/exam-2/obj/Debug/net9.0/exam-2.AssemblyInfo.cs
+/Users/nozimjonqozievgmail.com/Desktop/c#/week 2/exam-2/obj/Debug/net9.0/exam-2.csproj.CoreCompileInputs.cache
+/Users/nozimjonqozievgmail.com/Desktop/c#/week 2/exam-2/obj/Debug/net9.0/exam-2.dll
+/Users/nozimjonqozievgmail.com/Desktop/c#/week 2/exam-2/obj/Debug/net9.0/refint/exam-2.dll
+/Users/nozimjonqozievgmail.com/Desktop/c#/week 2/exam-2/obj/Debug/net9.0/exam-2.pdb
+/Users/nozimjonqozievgmail.com/Desktop/c#/week 2/exam-2/obj/Debug/net9.0/exam-2.genruntimeconfig.cache
+/Users/nozimjonqozievgmail.com/Desktop/c#/week 2/exam-2/obj/Debug/net9.0/ref/exam-2.dll
