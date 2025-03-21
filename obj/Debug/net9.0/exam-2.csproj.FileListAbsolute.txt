@@ -12,3 +12,4 @@
 /Users/nozimjonqozievgmail.com/Desktop/c#/week 2/exam-2/obj/Debug/net9.0/exam-2.pdb
 /Users/nozimjonqozievgmail.com/Desktop/c#/week 2/exam-2/obj/Debug/net9.0/exam-2.genruntimeconfig.cache
 /Users/nozimjonqozievgmail.com/Desktop/c#/week 2/exam-2/obj/Debug/net9.0/ref/exam-2.dll
+/Users/nozimjonqozievgmail.com/Desktop/c#/week 2/exam-2/obj/Debug/net9.0/exam-2.sourcelink.json

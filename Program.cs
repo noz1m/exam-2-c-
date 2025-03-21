@@ -65,13 +65,19 @@
 //     public string Name
 //     {
 //         get { return name; }
-//         set {  if (name.Length > 3)  name = value; else { name = "Unknown"; } }
+//         set {  if (value.Length >= 3)  
+//                 name = value; 
+//                 else { name = "Unknown"; } 
+//             }
 //     }
 //     private int grade;
 //     public int Grade
 //     {
 //         get { return grade; }
-//         set {if(grade > 100) grade = value;   else { grade = 0; }}
+//         set { if(value <= 100 && value >= 0)  
+//                 grade = value;   
+//                 else { grade = 0; }
+//             }
       
 //     }
 //     public int Id { get; set; }
@@ -83,6 +89,11 @@
 //     {
 //         if (grade >= 60) return true;
 //         else return false;
+//     }
+
+//     public Student(int id)
+//     {
+//         this.Id = id;
 //     }
 // }
 
